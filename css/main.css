@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,500&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.preview-img {
+	width: 18em;
+	height: auto;
+}
+
+.product-display {
+	padding: 100px;
+}
+
+.card {
+	position: initial;
+}
+
+.category-title {
+	font-size: 25px;
+	padding-bottom: 1rem;
+
+	font-family: "Inter", sans-serif;
+	font-optical-sizing: auto;
+ 	font-weight: 500;
+	font-style: normal;
+}
+
+.col {
+	padding: 2em;
+}
+
+a.card-title {
+	font-family: "Montserrat", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+}
+
+p.card-text {
+	font-family: "Montserrat", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 300;
+	font-style: normal;
+}

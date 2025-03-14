@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,500&display=swap');
+
+.top {
+	display: inline-flex;
+}
+
+.carousel {
+	width: 60%;
+	scale: 90%;
+}
+
+.carousel-item {
+	z-index: -1;
+	height: 60em;
+}
+
+.information {
+	width: 30%;
+	margin: 5em;
+}
+
+.description {
+	margin: 2em;
+}
+
+.title {
+	font-family: "Inter", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+}
+
+.owner {
+	font-family: "Montserrat", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 225;
+	font-style: normal;
+}
+
+.price {
+	font-family: "Montserrat", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 350;
+	font-style: normal;
+}
+
+p {
+	font-family: "Montserrat", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 350;
+	font-style: normal;
+}

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+/* This file stores information about the header */
+.header {
+	background: red;
+	height: 4rem;
+}
+
+nav.navbar {
+	position: sticky;
+	top: 0;
+	background: red;
+	padding-top: 0;
+}
+
+.header-link {
+	padding: 15px;
+	font-size: 1.2em;
+}
+
+img#logo {
+	width: 15%;
+	height: auto;
+}
+
+.navlink {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
